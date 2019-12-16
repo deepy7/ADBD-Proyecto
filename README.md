@@ -12,3 +12,5 @@ https://docs.google.com/document/d/1mu2NbTDvA2A7Q5S-2GqamPYLAKmi2tXG09lykiU3-5g/
 
 ## Modelo Conceptual ER/E
 https://docs.google.com/document/d/1ClLfATawwGHW5EJ4dSL5JYqSvmQflmyd98c5j_AwWgs/edit?usp=sharing
+![Modelo_ER_Proyecto_final](https://user-images.githubusercontent.com/32529688/70925279-44500980-202b-11ea-8946-571e632d2165.png)
+
